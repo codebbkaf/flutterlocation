@@ -1,4 +1,3 @@
-.DS_Store
 .atom/
 .idea/
 .vscode/
@@ -9,7 +8,7 @@
 pubspec.lock
 flutter_export_environment.sh
 
-coverage/
+examples/all_plugins/pubspec.yaml
 
 Podfile
 Podfile.lock
